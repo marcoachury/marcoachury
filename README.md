@@ -2,14 +2,16 @@
 Marco Achury
 
 Ingeniero Agrónomo
+Me gusta el trabajo en el campo, pero tambien la informática y los datos.
 
-BASIC
+- Lenguajes:  BASIC, Euphoria, Python
 
-Euphoria
+- Blockchain:  Stellar
 
-Stellar
+- Irrigation.  Diseño de sistemas de riego, calculos hidráulios, calculos iterativos.
 
-Irrigation
+https://marcoachury.tripod.com/eudos/
+
 
 
 <!---
